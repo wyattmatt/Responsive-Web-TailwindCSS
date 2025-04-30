@@ -14,7 +14,7 @@ This is a fully responsive personal portfolio website built with **HTML**, **Tai
 
 ## 📸 Preview
 
-![Preview](https://placehold.co/1200x600?text=Website+Preview)
+![Preview](/images/Preview.png)
 
 ## 🚀 Technologies Used
 
@@ -53,9 +53,9 @@ Responsive-Web-TailwindCSS/
 ## 🙌 Acknowledgements
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- (ScrollReveal)[https://scrollrevealjs.org/]
-- (Placehold.co)[https://placehold.co/] for image placeholders
+- [ScrollRevea](https://scrollrevealjs.org/)
+- [Placehold.co](https://placehold.co/) for image placeholders
 
 ## 📄 License
 
-This project is licensed under the (MIT License)[https://github.com/wyattmatt/Responsive-Web-TailwindCSS/blob/main/LICENSE].
+This project is licensed under the [MIT License](https://github.com/wyattmatt/Responsive-Web-TailwindCSS/blob/main/LICENSE).
