@@ -53,7 +53,7 @@ Responsive-Web-TailwindCSS/
 ## 🙌 Acknowledgements
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- [ScrollRevea](https://scrollrevealjs.org/)
+- [ScrollReveal](https://scrollrevealjs.org/)
 - [Placehold.co](https://placehold.co/) for image placeholders
 
 ## 📄 License
